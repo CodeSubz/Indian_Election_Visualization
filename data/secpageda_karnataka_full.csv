@@ -1,0 +1,503 @@
+ref,state,constituency,img_link,won_status,votes,votes_percentage,name,party_name
+65,Karnataka,Kolar(28),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MMAL-2024-2697.jpg,won,691481,(+ 71388),M. MALLESH BABU,Janata Dal  (Secular)
+66,Karnataka,Kolar(28),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/GOUTH-2024-3600.jpg,lost,620093,( -71388),K V GOWTHAM,Indian National Congress
+67,Karnataka,Kolar(28),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SUMAN-2024-20240408023201.jpg,lost,6487,( -684994),SUMAN H N,Independent
+68,Karnataka,Kolar(28),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SRINI-2024-3655.jpg,lost,6163,( -685318),HOLUR SRINIVASA,Independent
+69,Karnataka,Kolar(28),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SURES-2024-3053.jpg,lost,4732,( -686749),S B SURESHA,Bahujan Samaj Party
+70,Karnataka,Kolar(28),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KRDEV-2024-3942.jpg,lost,4597,( -686884),K R DEVARAJA,Delhi Janta Party
+71,Karnataka,Kolar(28),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MVENK-2024-3111.jpg,lost,3354,( -688127),DR M. VENKATASWAMY,Independent
+72,Karnataka,Kolar(28),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RANJI-2024-20240403011519.jpg,lost,2118,( -689363),R RANJITHKUMAR,Independent
+73,Karnataka,Kolar(28),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SNNAR-2024-3844.jpg,lost,1985,( -689496),S N NARAYANASWAMY V,Independent
+74,Karnataka,Kolar(28),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/DGOPA-2024-3012.jpg,lost,1669,( -689812),D GOPALAKRISHNA,Socialist Party (India)
+75,Karnataka,Kolar(28),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/DEVAR-2024-2797.jpg,lost,1354,( -690127),DEVARAJA A ALUSURUDINNE,Uttama Prajaakeeya Party
+76,Karnataka,Kolar(28),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MSBAD-2024-3808.jpg,lost,1116,( -690365),M S BADARINARAYANA,Independent
+77,Karnataka,Kolar(28),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MAHES-2024-2444.jpg,lost,1065,( -690416),MAHESH A V,Karnataka Rashtra Samithi
+78,Karnataka,Kolar(28),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/THIMM-2024-20240408024755.jpg,lost,864,( -690617),THIMMARAYAPPA,Republican Party of India (Karnataka)
+79,Karnataka,Kolar(28),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RRAJE-2024-3509.jpg,lost,751,( -690730),R RAJENDRA,Independent
+80,Karnataka,Kolar(28),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MMUNI-2024-3432.jpg,lost,604,( -690877),M MUNIGANGAPPA,Independent
+81,Karnataka,Kolar(28),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MCHAL-2024-20240408024820.jpg,lost,521,( -690960),M  C HALLI VENU,Viduthalai Chiruthaigal Katchi
+82,Karnataka,Kolar(28),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KRISH-2024-3897.jpg,lost,443,( -691038),KRISHNAIAH N,Independent
+83,Karnataka,Kolar(28),https://results.eci.gov.in/PcResultGenJune2024/img/nota.jpg,,5831,( -685650),NOTA,None of the Above
+388,Karnataka,Mandya(20),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/HDK-2024-20240408044241.jpg,won,851881,(+ 284620),H.D. KUMARASWAMY,Janata Dal  (Secular)
+389,Karnataka,Mandya(20),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/VENKA-2024-20240408060327.jpg,lost,567261,( -284620),VENKATARAMANE GOWDA (STAR CHANDRU),Indian National Congress
+390,Karnataka,Mandya(20),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/CHAND-2024-20240408044826.jpg,lost,12394,( -839487),CHANDAN GOWDA. K,Independent
+391,Karnataka,Mandya(20),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SHIVA-2024-20240408044354.jpg,lost,6964,( -844917),SHIVASHANKARA. S,Bahujan Samaj Party
+392,Karnataka,Mandya(20),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RAMAI-2024-20240408045007.jpg,lost,3810,( -848071),RAMAIAH. D,Independent
+393,Karnataka,Mandya(20),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RANJI-2024-20240408045025.jpg,lost,2909,( -848972),RANJITHA. N,Independent
+394,Karnataka,Mandya(20),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/CHAND-2024-20240408044418.jpg,lost,1476,( -850405),CHANDRASHEKARA. K.R (CHANDRU KEELARA),Karnataka Rashtra Samithi
+395,Karnataka,Mandya(20),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/BUDAY-2024-20240408050827.jpg,lost,1370,( -850511),BUDAYYA. B.P,Karunaadu Party
+396,Karnataka,Mandya(20),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/LOKES-2024-20240408044712.jpg,lost,1163,( -850718),LOKESHA. S (AARYA LOKESH),Uttama Prajaakeeya Party
+397,Karnataka,Mandya(20),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/BEERE-2024-2607.jpg,lost,931,( -850950),BEERESH. C.T (SAINIKA BEERESH),Independent
+398,Karnataka,Mandya(20),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/NBAS-2024-20240408044850.jpg,lost,843,( -851038),N.BASAVARAJU,Independent
+399,Karnataka,Mandya(20),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/HDR-2024-20240409015209.jpg,lost,590,( -851291),H.D. REVANNA,Purvanchal Mahapanchayat
+400,Karnataka,Mandya(20),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/CHANN-2024-20240408044806.jpg,lost,497,( -851384),CHANNAMAYIGOWDA,Independent
+401,Karnataka,Mandya(20),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SARV-2024-20240408044743.jpg,lost,442,( -851439),S.ARVIND,Independent
+402,Karnataka,Mandya(20),https://results.eci.gov.in/PcResultGenJune2024/img/nota.jpg,,7736,( -844145),NOTA,None of the Above
+2237,Karnataka,Chamarajanagar(22),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SUNIL-2024-3015.jpg,won,751671,(+ 188706),SUNIL BOSE,Indian National Congress
+2238,Karnataka,Chamarajanagar(22),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SBAL-2024-3021.jpg,lost,562965,( -188706),BALARAJ.S,Bharatiya Janata Party
+2239,Karnataka,Chamarajanagar(22),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MKRI-2024-20240404092818.jpg,lost,15903,( -735768),M.KRISHNA MURTHY,Bahujan Samaj Party
+2240,Karnataka,Chamarajanagar(22),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/CMK-2024-20240408120906.jpg,lost,8089,( -743582),C.M.KRISHNA,Dr. Ambedkar People's Party
+2241,Karnataka,Chamarajanagar(22),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/GDR-2024-2808.jpg,lost,3954,( -747717),G.D.RAJAGOPAL (H.D.KOTE),Independent
+2242,Karnataka,Chamarajanagar(22),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SUMAS-2024-20240330052227.jpg,lost,3826,( -747845),SUMA.S,Socialist Unity Centre Of India (COMMUNIST)
+2243,Karnataka,Chamarajanagar(22),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MAHAD-2024-2759.jpg,lost,3421,( -748250),MAHADEVASWAMY B M (PAMPI),Independent
+2244,Karnataka,Chamarajanagar(22),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/HKS-2024-3258.jpg,lost,3208,( -748463),H.K.SWAMY HARADANAHALLI,Independent
+2245,Karnataka,Chamarajanagar(22),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/PRADE-2024-20240330052245.jpg,lost,1986,( -749685),PATAS PRADEEP KUMAR.M,Independent
+2246,Karnataka,Chamarajanagar(22),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/NAMB-2024-2728.jpg,lost,1743,( -749928),KADAMBA. NAA. AMBARISH,Independent
+2247,Karnataka,Chamarajanagar(22),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/NINGA-2024-2443.jpg,lost,1411,( -750260),NINGARAJU.S,Karnataka Jantha Paksha
+2248,Karnataka,Chamarajanagar(22),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MAHES-2024-20240330052303.jpg,lost,1252,( -750419),KANDALLI MAHESH,Karnataka Rashtra Samithi
+2249,Karnataka,Chamarajanagar(22),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/NINGA-2024-20240404092837.jpg,lost,1247,( -750424),NINGARAJ.G,Independent
+2250,Karnataka,Chamarajanagar(22),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/PRASA-2024-20240404093035.jpg,lost,978,( -750693),PRASANNA KUMAR.B,Karnataka Praja Party (RaithaParva)
+2251,Karnataka,Chamarajanagar(22),https://results.eci.gov.in/PcResultGenJune2024/img/nota.jpg,,8143,( -743528),NOTA,None of the Above
+2252,Karnataka,Chikkballapur(27),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/DRK-2024-20240408102456.jpg,won,822619,(+ 163460),DR.K.SUDHAKAR,Bharatiya Janata Party
+2253,Karnataka,Chikkballapur(27),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MSRAK-2024-2684.jpg,lost,659159,( -163460),M.S. RAKSHA RAMAIAH,Indian National Congress
+2254,Karnataka,Chikkballapur(27),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MUNIV-2024-3165.jpg,lost,4557,( -818062),MUNIVENKATAPPA M.P,Communist Party of India  (Marxist)
+2255,Karnataka,Chikkballapur(27),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MAHAD-2024-20240408102037.jpg,lost,4440,( -818179),MAHADEV. P,Bahujan Samaj Party
+2256,Karnataka,Chikkballapur(27),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RAJAN-2024-2631.jpg,lost,3764,( -818855),RAJANNA,Independent
+2257,Karnataka,Chikkballapur(27),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RAJAR-2024-3922.jpg,lost,3381,( -819238),RAJA REDDY,Independent
+2258,Karnataka,Chikkballapur(27),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KALAV-2024-2843.jpg,lost,2744,( -819875),KALAVATHI. N,Socialist Unity Centre Of India (COMMUNIST)
+2259,Karnataka,Chikkballapur(27),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/VALAS-2024-20240405112040.jpg,lost,2162,( -820457),VALASAPALLI UTAPPA,Independent
+2260,Karnataka,Chikkballapur(27),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/VENKA-2024-3957.jpg,lost,2020,( -820599),VENKATESHMURTHY.V,Uttama Prajaakeeya Party
+2261,Karnataka,Chikkballapur(27),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/DSUDH-2024-3224.jpg,lost,1689,( -820930),D. SUDHAKARA,Independent
+2262,Karnataka,Chikkballapur(27),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SUDHA-2024-20240402045116.jpg,lost,1591,( -821028),SUDHAKAR. N,Independent
+2263,Karnataka,Chikkballapur(27),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/GNRAV-2024-20240408105535.jpg,lost,1465,( -821154),G N RAVI,Independent
+2264,Karnataka,Chikkballapur(27),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/BHASK-2024-20240408101843.jpg,lost,1367,( -821252),BHASKAR ANKALAMADUGU SHIVAREDDY,Independent
+2265,Karnataka,Chikkballapur(27),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/CHAND-2024-2750.jpg,lost,1282,( -821337),CHANDRASHEKAR. H.C,Independent
+2266,Karnataka,Chikkballapur(27),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MOHIT-2024-3149.jpg,lost,1229,( -821390),MOHITH NARASIMHAMURTHY,Independent
+2267,Karnataka,Chikkballapur(27),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/NARAS-2024-3761.jpg,lost,1218,( -821401),V.N. NARASIMHAMURTHY VADIGERE,Independent
+2268,Karnataka,Chikkballapur(27),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/GNV-2024-20240409043944.jpg,lost,1207,( -821412),G.N. VENKATESH B.A.L.L.B,Independent
+2269,Karnataka,Chikkballapur(27),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/DEVAR-2024-3247.jpg,lost,1177,( -821442),DEVARAJ CORONA WARRIOR,Independent
+2270,Karnataka,Chikkballapur(27),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/GSUBR-2024-20240406044012.jpg,lost,872,( -821747),G SUBRAMANI SHETTY,Karnataka Rashtra Samithi
+2271,Karnataka,Chikkballapur(27),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RANGA-2024-3125.jpg,lost,857,( -821762),DR. M.R. RANGANATHA,Independent
+2272,Karnataka,Chikkballapur(27),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/NAGES-2024-20240408102900.jpg,lost,850,( -821769),NAGESH. S,Digvijaya Bharatha Party
+2273,Karnataka,Chikkballapur(27),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/TRNAR-2024-3741.jpg,lost,762,( -821857),T.R. NARAYANA RAO,Indian Labour Party (Ambedkar Phule)
+2274,Karnataka,Chikkballapur(27),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/CVLOK-2024-3685.jpg,lost,701,( -821918),"C.V.  LOKESH GOWDA, B.E",Independent
+2275,Karnataka,Chikkballapur(27),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/DCHI-2024-20240408104529.jpg,lost,619,( -822000),D. CHINNAPPA,Independent
+2276,Karnataka,Chikkballapur(27),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SANDE-2024-3848.jpg,lost,594,( -822025),SANDESH.G,Independent
+2277,Karnataka,Chikkballapur(27),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/NASUR-2024-20240406014011.jpg,lost,583,( -822036),NASURULLA,Independent
+2278,Karnataka,Chikkballapur(27),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KVENK-2024-20240401045635.jpg,lost,474,( -822145),K. VENKATESH,Independent
+2279,Karnataka,Chikkballapur(27),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/TVENK-2024-3724.jpg,lost,440,( -822179),T VENKATA SIVUDU,Independent
+2280,Karnataka,Chikkballapur(27),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/GNKOD-2024-3899.jpg,lost,401,( -822218),G N. KODANDAREDDY,Independent
+2281,Karnataka,Chikkballapur(27),https://results.eci.gov.in/PcResultGenJune2024/img/nota.jpg,,6596,( -816023),NOTA,None of the Above
+4063,Karnataka,Bangalore South(26),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/TEJAS-2024-20240410040024.jpg,won,750830,(+ 277083),TEJASVI SURYA,Bharatiya Janata Party
+4064,Karnataka,Bangalore South(26),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SOWMY-2024-20240403012828.jpg,lost,473747,( -277083),SOWMYA REDDY,Indian National Congress
+4065,Karnataka,Bangalore South(26),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/ARUNP-2024-4053.jpg,lost,2425,( -748405),ARUN PRASAD.A,Bahujan Samaj Party
+4066,Karnataka,Bangalore South(26),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/TINTI-2024-3270.jpg,lost,1968,( -748862),TINTISHA HEMACHANDRA SAGAR,Independent
+4067,Karnataka,Bangalore South(26),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/VATAL-2024-3823.jpg,lost,1867,( -748963),VATAL NAGARAJ,Kannada Chalavali Vatal Paksha
+4068,Karnataka,Bangalore South(26),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KEMPE-2024-20240410040047.jpg,lost,1393,( -749437),KEMPEGOWDA,Navabharath Sena
+4069,Karnataka,Bangalore South(26),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/TEJAS-2024-20240402041812.jpg,lost,1150,( -749680),TEJASWINI DHANANJAY,Independent
+4070,Karnataka,Bangalore South(26),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/BALAK-2024-2706.jpg,lost,1110,( -749720),BALAKRISHNA.M.,Uttama Prajaakeeya Party
+4071,Karnataka,Bangalore South(26),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/JAYAP-2024-3024.jpg,lost,942,( -749888),JAYAPAL.D,Independent
+4072,Karnataka,Bangalore South(26),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RANJI-2024-3088.jpg,lost,860,( -749970),RANJITH GOWDA,Independent
+4073,Karnataka,Bangalore South(26),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/VRAJ-2024-20240410035954.jpg,lost,740,( -750090),V.RAJKUMAR VCK,Independent
+4074,Karnataka,Bangalore South(26),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RAGUP-2024-2468.jpg,lost,738,( -750092),RAGHUPATHI BHAT,Karnataka Rashtra Samithi
+4075,Karnataka,Bangalore South(26),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/DRHAR-2024-20240410040322.jpg,lost,563,( -750267),DR HARISH GOWDA,Independent
+4076,Karnataka,Bangalore South(26),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/CHETA-2024-20240402013300.jpg,lost,492,( -750338),CHETAN CHAMAN,Country Citizen Party
+4077,Karnataka,Bangalore South(26),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/ARAJ-2024-3559.jpg,lost,477,( -750353),A . RAJ.,Independent
+4078,Karnataka,Bangalore South(26),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KCJ-2024-20240410040222.jpg,lost,452,( -750378),K. C. JANARDHAN,Independent
+4079,Karnataka,Bangalore South(26),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KANTH-2024-20240410040156.jpg,lost,403,( -750427),KANTHAKUMAR.R.,Independent
+4080,Karnataka,Bangalore South(26),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MANUJ-2024-3795.jpg,lost,310,( -750520),KARAVALI MANJUNATH. BE,Rashtriya Samaj Dal (R)
+4081,Karnataka,Bangalore South(26),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/CMSH-2024-20240330021531.jpg,lost,297,( -750533),C M. SHABAZ KHAN,Young Star Empowerment Party
+4082,Karnataka,Bangalore South(26),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/ASGAR-2024-3113.jpg,lost,269,( -750561),ASGAR A MOHIN.S.M.,Independent
+4083,Karnataka,Bangalore South(26),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SUBRA-2024-20240401033209.jpg,lost,237,( -750593),SUBRAHMANYA KUMAR KUNTIKANAMATA,Independent
+4084,Karnataka,Bangalore South(26),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RSHEK-2024-3292.jpg,lost,215,( -750615),DR.R.SHEKAR THIRUMAVALVAN,Independent
+4085,Karnataka,Bangalore South(26),https://results.eci.gov.in/PcResultGenJune2024/img/nota.jpg,,7857,( -742973),NOTA,None of the Above
+4086,Karnataka,Bangalore central(25),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/PCM-2024-20240403123209.jpg,won,658915,(+ 32707),P C MOHAN,Bharatiya Janata Party
+4087,Karnataka,Bangalore central(25),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MANSO-2024-3109.jpg,lost,626208,( -32707),MANSOOR ALI KHAN,Indian National Congress
+4088,Karnataka,Bangalore central(25),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SATHI-2024-3490.jpg,lost,3087,( -655828),SATISH CHANDRA. M.,Bahujan Samaj Party
+4089,Karnataka,Bangalore central(25),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/JAYAL-2024-2493.jpg,lost,2761,( -656154),JAYALAKSHMI SUNDARA RAJAN,Independent
+4090,Karnataka,Bangalore central(25),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SURES-2024-3148.jpg,lost,1739,( -657176),SURESH BABU. M. C,Uttama Prajaakeeya Party
+4091,Karnataka,Bangalore central(25),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MANJU-2024-20240408044707.jpg,lost,1556,( -657359),K. MANJUNATHA,Independent
+4092,Karnataka,Bangalore central(25),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SMKRI-2024-2770.jpg,lost,1474,( -657441),S. M. KRISHNA,Independent
+4093,Karnataka,Bangalore central(25),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MURUG-2024-4064.jpg,lost,1162,( -657753),MURUGESH. R,Independent
+4094,Karnataka,Bangalore central(25),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/UMAV-2024-3014.jpg,lost,827,( -658088),UMA. V.,Independent
+4095,Karnataka,Bangalore central(25),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/PRAKA-2024-20240408044615.jpg,lost,779,( -658136),PRAKASH. K,Karnataka Rashtra Samithi
+4096,Karnataka,Bangalore central(25),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/HPSHI-2024-2452.jpg,lost,707,( -658208),H. P. SHIVAPRAKASH,Socialist Unity Centre Of India (COMMUNIST)
+4097,Karnataka,Bangalore central(25),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MODIS-2024-2622.jpg,lost,695,( -658220),MODI SAIFULLA,Independent
+4098,Karnataka,Bangalore central(25),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SHEEL-2024-4033.jpg,lost,635,( -658280),ABHAYA SHEELA.,Rashtriya Samaj Dal (R)
+4099,Karnataka,Bangalore central(25),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KARTH-2024-4143.jpg,lost,601,( -658314),KARTHIK. K,Voters Independent Party
+4100,Karnataka,Bangalore central(25),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/TRJAG-2024-3144.jpg,lost,460,( -658455),T.R. JAGANNATHA RAO,Bharatiya Prajagala Kalyana Paksha
+4101,Karnataka,Bangalore central(25),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/VASAN-2024-2436.jpg,lost,439,( -658476),VASANTH KUMAR ERAPPA,Independent
+4102,Karnataka,Bangalore central(25),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SHABA-2024-2490.jpg,lost,429,( -658486),C.M. SHABAZ KHAN,Young Star Empowerment Party
+4103,Karnataka,Bangalore central(25),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MURUG-2024-4015.jpg,lost,378,( -658537),WHITEFIELD MURUGESH .C,Republican Party of India (Karnataka)
+4104,Karnataka,Bangalore central(25),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/BKRIS-2024-3022.jpg,lost,327,( -658588),B. KRISHNA PRASAD,"Proutist Bloc, India"
+4105,Karnataka,Bangalore central(25),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MUKTH-2024-20240405071507.jpg,lost,314,( -658601),MUKTHAR ALI KHAN,Karnataka Karmikara Paksha
+4106,Karnataka,Bangalore central(25),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SYEDA-2024-3457.jpg,lost,286,( -658629),SYED ASIF BUKHARI,Independent
+4107,Karnataka,Bangalore central(25),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RANJI-2024-2720.jpg,lost,274,( -658641),RANJITH VISHWA,Samajwadi Janata Party(Karnataka)
+4108,Karnataka,Bangalore central(25),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RUMAN-2024-4103.jpg,lost,171,( -658744),RUMAN SHARIFFE,Independent
+4109,Karnataka,Bangalore central(25),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/YALLA-2024-3298.jpg,lost,160,( -658755),YALLAPPA.,Independent
+4110,Karnataka,Bangalore central(25),https://results.eci.gov.in/PcResultGenJune2024/img/nota.jpg,,12126,( -646789),NOTA,None of the Above
+4111,Karnataka,Bangalore North(24),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SHOBH-2024-20240403012731.jpg,won,986049,(+ 259476),SHOBHA KARANDLAJE,Bharatiya Janata Party
+4112,Karnataka,Bangalore North(24),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MVR-2024-3139.jpg,lost,726573,( -259476),PROFESSOR M.V RAJEEV GOWDA,Indian National Congress
+4113,Karnataka,Bangalore North(24),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/GOVIN-2024-3096.jpg,lost,4631,( -981418),GOVINDAIAH,Bahujan Samaj Party
+4114,Karnataka,Bangalore North(24),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SANTH-2024-2576.jpg,lost,3461,( -982588),SANTHOSH M,Uttama Prajaakeeya Party
+4115,Karnataka,Bangalore North(24),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/UDAYA-2024-20240409121833.jpg,lost,2678,( -983371),UDAYA SHANKAR.G,Prahar Janshakti Party
+4116,Karnataka,Bangalore North(24),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/LAKSH-2024-2809.jpg,lost,2094,( -983955),LAKSHMI SRIHARI.J.N.,Independent
+4117,Karnataka,Bangalore North(24),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/DILIP-2024-3866.jpg,lost,1903,( -984146),DILIP KUMAR I.S.,Independent
+4118,Karnataka,Bangalore North(24),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KMM-2024-20240404055725.jpg,lost,1720,( -984329),K.M.MAHADEVA,Independent
+4119,Karnataka,Bangalore North(24),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KVN-2024-3543.jpg,lost,1365,( -984684),K.V.NANJUNDASWAMY,Independent
+4120,Karnataka,Bangalore North(24),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SHOBH-2024-3777.jpg,lost,1280,( -984769),SHOBHA,Independent
+4121,Karnataka,Bangalore North(24),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/YRK-2024-3755.jpg,lost,1077,( -984972),Y.R.KALLESHWARI,Samajwadi Janata Party(Karnataka)
+4122,Karnataka,Bangalore North(24),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/NIRMA-2024-2476.jpg,lost,977,( -985072),NIRMALA H.L,Socialist Unity Centre Of India (COMMUNIST)
+4123,Karnataka,Bangalore North(24),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/HRN-2024-3687.jpg,lost,861,( -985188),H.R.NATARAJ,Independent
+4124,Karnataka,Bangalore North(24),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/BHASK-2024-2580.jpg,lost,831,( -985218),BHASKAR ANKALAMADUGU SHIVAREDDY,Independent
+4125,Karnataka,Bangalore North(24),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SHIVA-2024-20240409121959.jpg,lost,817,( -985232),SHIVAKUMAR. B,Karnataka Rashtra Samithi
+4126,Karnataka,Bangalore North(24),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/VSUD-2024-20240403124352.jpg,lost,657,( -985392),SUDHA.  V,Independent
+4127,Karnataka,Bangalore North(24),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KRISH-2024-20240403041146.jpg,lost,559,( -985490),KRISHNAIAH,Rashtriya Samaj Dal (R)
+4128,Karnataka,Bangalore North(24),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/JVEN-2024-3599.jpg,lost,425,( -985624),HEBBAL VENKATESH.J,Republican Party of India (A)
+4129,Karnataka,Bangalore North(24),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/JJAI-2024-20240405011544.jpg,lost,359,( -985690),"GLOBE STAR J. JAI SIMHA VARMA, B E.",Gareeb Aadmi Party
+4130,Karnataka,Bangalore North(24),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SHOBA-2024-20240402115125.jpg,lost,320,( -985729),SHOBAN BABU  V,Indian Labour Party (Ambedkar Phule)
+4131,Karnataka,Bangalore North(24),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/PARAS-2024-3572.jpg,lost,313,( -985736),PARASAPPA BHEEMAPPA GAJJERI,Rani Chennamma Party
+4132,Karnataka,Bangalore North(24),https://results.eci.gov.in/PcResultGenJune2024/img/nota.jpg,,13554,( -972495),NOTA,None of the Above
+4133,Karnataka,Bangalore Rural(23),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/DRCNM-2024-3418.jpg,won,1079002,(+ 269647),DR C N MANJUNATH,Bharatiya Janata Party
+4134,Karnataka,Bangalore Rural(23),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/DKSUR-2024-20240406033551.jpg,lost,809355,( -269647),D K SURESH,Indian National Congress
+4135,Karnataka,Bangalore Rural(23),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/ABHIS-2024-2676.jpg,lost,6202,( -1072800),ABHISHEK K,Uttama Prajaakeeya Party
+4136,Karnataka,Bangalore Rural(23),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SURES-2024-3689.jpg,lost,3236,( -1075766),SURESH M N,Independent
+4137,Karnataka,Bangalore Rural(23),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/HEMAV-2024-2579.jpg,lost,1774,( -1077228),HEMAVATHI K,Socialist Unity Centre Of India (COMMUNIST)
+4138,Karnataka,Bangalore Rural(23),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/JTPRA-2024-20240402125538.jpg,lost,1472,( -1077530),J T PRAKASH,Independent
+4139,Karnataka,Bangalore Rural(23),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/NKRIS-2024-3505.jpg,lost,1402,( -1077600),N KRISHNAPPA,Pyramid Party of India
+4140,Karnataka,Bangalore Rural(23),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MANJU-2024-3174.jpg,lost,1400,( -1077602),C N MANJUNATHA,Bahujan Bharat Party
+4141,Karnataka,Bangalore Rural(23),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KUMAR-2024-2679.jpg,lost,1066,( -1077936),KUMAR L,Bharatiya Prajagala Kalyana Paksha
+4142,Karnataka,Bangalore Rural(23),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MAHAM-2024-2624.jpg,lost,821,( -1078181),MAHAMAD MUSADIK PASHA,Karnataka Rashtra Samithi
+4143,Karnataka,Bangalore Rural(23),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/NARAS-2024-3598.jpg,lost,813,( -1078189),NARASIMHAMURTHY J P,Independent
+4144,Karnataka,Bangalore Rural(23),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SURES-2024-2997.jpg,lost,798,( -1078204),SURESH S,Karunaadu Party
+4145,Karnataka,Bangalore Rural(23),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/VASIS-2024-3191.jpg,lost,584,( -1078418),VASIST J,Country Citizen Party
+4146,Karnataka,Bangalore Rural(23),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MOHAM-2024-2669.jpg,lost,486,( -1078516),MOHAMMAD DASTAGEER,Young Star Empowerment Party
+4147,Karnataka,Bangalore Rural(23),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/HVCHA-2024-3438.jpg,lost,480,( -1078522),H V CHANDRASHEKAR,Viduthalai Chiruthaigal Katchi
+4148,Karnataka,Bangalore Rural(23),https://results.eci.gov.in/PcResultGenJune2024/img/nota.jpg,,10649,( -1068353),NOTA,None of the Above
+4149,Karnataka,Mysore(21),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/YADUV-2024-2695.jpg,won,795503,(+ 139262),YADUVEER KRISHNADATTA CHAMARAJA WADIYAR,Bharatiya Janata Party
+4150,Karnataka,Mysore(21),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MLAK-2024-3186.jpg,lost,656241,( -139262),M. LAKSHMANA,Indian National Congress
+4151,Karnataka,Mysore(21),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RANGA-2024-2794.jpg,lost,4306,( -791197),RANGASWAMY. M,Independent
+4152,Karnataka,Mysore(21),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/NAMBA-2024-3536.jpg,lost,4080,( -791423),KADAMBA NAA AMBARISH,Karnataka Jantha Paksha
+4153,Karnataka,Mysore(21),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/ASSAT-2024-2592.jpg,lost,3746,( -791757),A. S. SATHISH,Independent
+4154,Karnataka,Mysore(21),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RAMAM-2024-2805.jpg,lost,3605,( -791898),RAMAMURTHY. M,Independent
+4155,Karnataka,Mysore(21),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RAJU-2024-3506.jpg,lost,1949,( -793554),RAJU,Independent
+4156,Karnataka,Mysore(21),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/LEELA-2024-2779.jpg,lost,1754,( -793749),PRAJAKEEYA LEELA SHIVAKUMAR,Uttama Prajaakeeya Party
+4157,Karnataka,Mysore(21),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SUNIL-2024-2434.jpg,lost,1560,( -793943),COMRADE SUNIL T. R,Socialist Unity Centre Of India (COMMUNIST)
+4158,Karnataka,Mysore(21),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/HKK-2024-20240408053654.jpg,lost,1489,( -794014),H. K. KRISHNA,Karunaadu Party
+4159,Karnataka,Mysore(21),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/HARIS-2024-3030.jpg,lost,976,( -794527),HARISH GOWDA,Socialist Party (India)
+4160,Karnataka,Mysore(21),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/PSY-2024-2677.jpg,lost,878,( -794625),P. S. YADURAPPA,Independent
+4161,Karnataka,Mysore(21),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/AMBED-2024-3631.jpg,lost,835,( -794668),AMBEDKAR. C. J,Independent
+4162,Karnataka,Mysore(21),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/DARSH-2024-20240408062353.jpg,lost,764,( -794739),DARSHAN K PONNETI,Independent
+4163,Karnataka,Mysore(21),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MSPRA-2024-2459.jpg,lost,740,( -794763),M. S. PRAVEEN,Karnataka Rashtra Samithi
+4164,Karnataka,Mysore(21),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/CHRIS-2024-3194.jpg,lost,544,( -794959),CHRISTOPHER RAJ KUMAR,Independent
+4165,Karnataka,Mysore(21),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/HMNAN-2024-3511.jpg,lost,523,( -794980),DR. H. M. NANJUNDASWAMY,Samajwadi Janata Party(Karnataka)
+4166,Karnataka,Mysore(21),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/AGRAM-2024-3593.jpg,lost,490,( -795013),A. G. RAMACHANDRA RAO,Secular Democratic Congress
+4167,Karnataka,Mysore(21),https://results.eci.gov.in/PcResultGenJune2024/img/nota.jpg,,4490,( -791013),NOTA,None of the Above
+4168,Karnataka,Tumkur(19),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/VSOMA-2024-2673.jpg,won,720946,(+ 175594),V. SOMANNA,Bharatiya Janata Party
+4169,Karnataka,Tumkur(19),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SPMUD-2024-3458.jpg,lost,545352,( -175594),S.P. MUDDAHANUMEGOWDA,Indian National Congress
+4170,Karnataka,Tumkur(19),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/JKSAM-2024-20240404071822.jpg,lost,6775,( -714171),J.K. SAMI,Independent
+4171,Karnataka,Tumkur(19),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/JNRAJ-2024-3126.jpg,lost,5554,( -715392),RAJASIMHA J. N.,Bahujan Samaj Party
+4172,Karnataka,Tumkur(19),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SNAGA-2024-2795.jpg,lost,4591,( -716355),S.N. SWAMY,Socialist Unity Centre Of India (COMMUNIST)
+4173,Karnataka,Tumkur(19),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RANGA-2024-3620.jpg,lost,3132,( -717814),RANGANATHA. R.S,Independent
+4174,Karnataka,Tumkur(19),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MALLI-2024-20240405113706.jpg,lost,1880,( -719066),MALLIKARJUNAIAH,Independent
+4175,Karnataka,Tumkur(19),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SIDDA-2024-2577.jpg,lost,1646,( -719300),SIDDARAMEGOWDA T. B,Independent
+4176,Karnataka,Tumkur(19),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/PRADE-2024-2597.jpg,lost,1618,( -719328),PRADEEP KUMAR DODDAMUDDEGOWDA,Karnataka Rashtra Samithi
+4177,Karnataka,Tumkur(19),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/HLMOH-2024-3495.jpg,lost,893,( -720053),H.L. MOHAN KUMAR,Independent
+4178,Karnataka,Tumkur(19),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/PRAKA-2024-20240328015104.jpg,lost,863,( -720083),PRAKASH. R.A. JAIN,Independent
+4179,Karnataka,Tumkur(19),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/NEELA-2024-3470.jpg,lost,719,( -720227),NEELAKANTESHA. H S,Independent
+4180,Karnataka,Tumkur(19),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RPUSH-2024-3573.jpg,lost,629,( -720317),R. PUSHPA,Independent
+4181,Karnataka,Tumkur(19),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RNARA-2024-20240401103820.jpg,lost,507,( -720439),R. NARAYANAPPA,Independent
+4182,Karnataka,Tumkur(19),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/DEVAR-2024-2833.jpg,lost,499,( -720447),B. DEVARAJ,Independent
+4183,Karnataka,Tumkur(19),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/DRHBM-2024-3482.jpg,lost,477,( -720469),DR. H.B.M. HIREMATH,Kannada  Paksha
+4184,Karnataka,Tumkur(19),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KAPAN-2024-20240402022934.jpg,lost,471,( -720475),KAPANIGOWDA.,Independent
+4185,Karnataka,Tumkur(19),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/BASAV-2024-3007.jpg,lost,439,( -720507),BASAVARAJU. H.R,National Maha Sabha Party
+4186,Karnataka,Tumkur(19),https://results.eci.gov.in/PcResultGenJune2024/img/nota.jpg,,6460,( -714486),NOTA,None of the Above
+4187,Karnataka,Chitradurga(18),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/GOVIN-2024-20240408061501.jpg,won,684890,(+ 48121),GOVIND MAKTHAPPA KARJOL,Bharatiya Janata Party
+4188,Karnataka,Chitradurga(18),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/BNCHA-2024-4068.jpg,lost,636769,( -48121),B.N.CHANDRAPPA,Indian National Congress
+4189,Karnataka,Chitradurga(18),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/ASHOK-2024-2856.jpg,lost,7705,( -677185),ASHOKA CHAKRAVARTHI,Bahujan Samaj Party
+4190,Karnataka,Chitradurga(18),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/NARAS-2024-20240408061535.jpg,lost,4950,( -679940),NARASIMHARAJU. C.N.,Karnataka Rashtra Samithi
+4191,Karnataka,Chitradurga(18),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SRINI-2024-20240408061949.jpg,lost,4548,( -680342),SRINIVASAPURADA SRINIVASABABU PAVAGADA,Independent
+4192,Karnataka,Chitradurga(18),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/BVEN-2024-20240404064609.jpg,lost,4201,( -680689),"B. VENKATESHA, SHILPI",Independent
+4193,Karnataka,Chitradurga(18),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MANJU-2024-4203.jpg,lost,2676,( -682214),MANJUNATHA SWAMY T,Independent
+4194,Karnataka,Chitradurga(18),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/BHUTH-2024-4127.jpg,lost,2397,( -682493),BHUTHARAJA. V.S.,Independent
+4195,Karnataka,Chitradurga(18),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RAGHU-2024-3327.jpg,lost,2337,( -682553),RAGHU KUMAR .S,Independent
+4196,Karnataka,Chitradurga(18),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RAMES-2024-4174.jpg,lost,2206,( -682684),RAMESH NAIK .T.,Uttama Prajaakeeya Party
+4197,Karnataka,Chitradurga(18),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/NAGAR-2024-20240408061803.jpg,lost,1679,( -683211),NAGARAJAPPA,Independent
+4198,Karnataka,Chitradurga(18),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KNAR-2024-3276.jpg,lost,1397,( -683493),K  NARASHIMAMURTHY,Independent
+4199,Karnataka,Chitradurga(18),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SUDHA-2024-20240408061852.jpg,lost,1211,( -683679),SUDHAKARA .R,Independent
+4200,Karnataka,Chitradurga(18),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/GANES-2024-3941.jpg,lost,1093,( -683797),GANESH.,Independent
+4201,Karnataka,Chitradurga(18),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/TULAS-2024-4038.jpg,lost,1082,( -683808),TULASI.H,Independent
+4202,Karnataka,Chitradurga(18),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SHABA-2024-3294.jpg,lost,1018,( -683872),SHABAREESH.,Karunada Sevakara Party
+4203,Karnataka,Chitradurga(18),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SUJAT-2024-20240408061439.jpg,lost,1014,( -683876),SUJATHA .D.,Socialist Unity Centre Of India (COMMUNIST)
+4204,Karnataka,Chitradurga(18),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MPDAR-2024-4213.jpg,lost,992,( -683898),DR M.P. DARAKESWARAIAH,Independent
+4205,Karnataka,Chitradurga(18),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/AMRUT-2024-4225.jpg,lost,834,( -684056),AMRUTH RAJA.,Independent
+4206,Karnataka,Chitradurga(18),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/BTR-2024-20240408080915.jpg,lost,720,( -684170),B.T. RAMASUBBAIAH,Indian Movement Party
+4207,Karnataka,Chitradurga(18),https://results.eci.gov.in/PcResultGenJune2024/img/nota.jpg,,3190,( -681700),NOTA,None of the Above
+4208,Karnataka,Dakshina Kannada(17),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/CAPTA-2024-20240408115528.jpg,won,764132,(+ 149208),CAPTAIN BRIJESH CHOWTA,Bharatiya Janata Party
+4209,Karnataka,Dakshina Kannada(17),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RPADM-2024-20240404112036.jpg,lost,614924,( -149208),PADMARAJ.R.POOJARY,Indian National Congress
+4210,Karnataka,Dakshina Kannada(17),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KANTH-2024-20240404120733.jpg,lost,4232,( -759900),KANTHAPPA ALANGAR,Bahujan Samaj Party
+4211,Karnataka,Dakshina Kannada(17),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/DURGA-2024-2672.jpg,lost,2592,( -761540),DURGA PRASAD,Karunada Sevakara Party
+4212,Karnataka,Dakshina Kannada(17),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SUPRE-2024-2442.jpg,lost,1901,( -762231),SUPREETH KUMAR POOJARY  KATEEL,Independent
+4213,Karnataka,Dakshina Kannada(17),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MAXIM-2024-3439.jpg,lost,1690,( -762442),MAXIM PINTO,Independent
+4214,Karnataka,Dakshina Kannada(17),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/DEEPA-2024-2606.jpg,lost,976,( -763156),DEEPAK RAJESH COELHO,Independent
+4215,Karnataka,Dakshina Kannada(17),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KEMAN-2024-2804.jpg,lost,971,( -763161),PRAJAAKEEYA MANOHARA,Uttama Prajaakeeya Party
+4216,Karnataka,Dakshina Kannada(17),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RANJI-2024-2618.jpg,lost,776,( -763356),RANJINI. M,Karnataka Rashtra Samithi
+4217,Karnataka,Dakshina Kannada(17),https://results.eci.gov.in/PcResultGenJune2024/img/nota.jpg,,23576,( -740556),NOTA,None of the Above
+4218,Karnataka,Udupi Chikmagalur(15),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KOTAS-2024-3064.jpg,won,732234,(+ 259175),KOTA SRINIVAS POOJARY,Bharatiya Janata Party
+4219,Karnataka,Udupi Chikmagalur(15),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KJAY-2024-20240408051657.jpg,lost,473059,( -259175),K. JAYAPRAKASH HEGDE,Indian National Congress
+4220,Karnataka,Udupi Chikmagalur(15),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KTR-2024-2453.jpg,lost,5417,( -726817),K.T. RADHAKRISHNA,Bahujan Samaj Party
+4221,Karnataka,Udupi Chikmagalur(15),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SUDHE-2024-2586.jpg,lost,2286,( -729948),SUDHEER KANCHAN MARAKALA,Independent
+4222,Karnataka,Udupi Chikmagalur(15),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SACHI-2024-3728.jpg,lost,1333,( -730901),SACHIN B.K,Uttama Prajaakeeya Party
+4223,Karnataka,Udupi Chikmagalur(15),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MKD-2024-3463.jpg,lost,1069,( -731165),M. K. DAYANANDA,Proutist Sarva Samaj
+4224,Karnataka,Udupi Chikmagalur(15),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/VIJAY-2024-20240408040802.jpg,lost,956,( -731278),VIJAY KUMAR M. G,Independent
+4225,Karnataka,Udupi Chikmagalur(15),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SUPRE-2024-20240404030422.jpg,lost,690,( -731544),SUPREETH KUMAR POOJARY KATEEL,Janahitha Paksha
+4226,Karnataka,Udupi Chikmagalur(15),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SHABA-2024-2704.jpg,lost,565,( -731669),SHABAREESH,Karunada Sevakara Party
+4227,Karnataka,Udupi Chikmagalur(15),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/LRAN-2024-20240402011220.jpg,lost,540,( -731694),L. RANGANATH GOWDA,Karnataka Rashtra Samithi
+4228,Karnataka,Udupi Chikmagalur(15),https://results.eci.gov.in/PcResultGenJune2024/img/nota.jpg,,11269,( -720965),NOTA,None of the Above
+4229,Karnataka,Shimoga(14),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/BYR-2024-5065.jpg,won,778721,(+ 243715),B.Y.RAGHAVENDRA,Bharatiya Janata Party
+4230,Karnataka,Shimoga(14),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/GEETH-2024-4445.jpg,lost,535006,( -243715),GEETHA SHIVARAJKUMAR,Indian National Congress
+4231,Karnataka,Shimoga(14),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KSESH-2024-4385.jpg,lost,30050,( -748671),K. S. ESHWARAPPA,Independent
+4232,Karnataka,Shimoga(14),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/BANDI-2024-5871.jpg,lost,7266,( -771455),BANDI,Independent
+4233,Karnataka,Shimoga(14),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RAVIK-2024-4398.jpg,lost,4552,( -774169),RAVIKUMARA N.,Independent
+4234,Karnataka,Shimoga(14),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/POOJA-2024-5691.jpg,lost,3457,( -775264),POOJA N. ANNAIAH,Independent
+4235,Karnataka,Shimoga(14),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/ADS-2024-4992.jpg,lost,2779,( -775942),A.D. SHIVAPPA,Bahujan Samaj Party
+4236,Karnataka,Shimoga(14),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/NVNAV-2024-4530.jpg,lost,1993,( -776728),N. V. NAVEEN KUMAR,Independent
+4237,Karnataka,Shimoga(14),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/ARUNA-2024-4394.jpg,lost,1478,( -777243),ARUNA KANAHALLI,Uttama Prajaakeeya Party
+4238,Karnataka,Shimoga(14),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/HANUM-2024-20240420035807.jpg,lost,954,( -777767),E.H. NAYAK,Independent
+4239,Karnataka,Shimoga(14),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/JOHNB-2024-4989.jpg,lost,867,( -777854),JOHN BENNY,Independent
+4240,Karnataka,Shimoga(14),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/GANES-2024-4699.jpg,lost,747,( -777974),GANESH. B (BELLI),Independent
+4241,Karnataka,Shimoga(14),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/DSES-2024-4649.jpg,lost,695,( -778026),D.S. ESHWARAPPA,Independent
+4242,Karnataka,Shimoga(14),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KUNAJ-2024-4651.jpg,lost,683,( -778038),KUNAJE MANJUNATHA GOWDA,Independent
+4243,Karnataka,Shimoga(14),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SKP-2024-4397.jpg,lost,617,( -778104),S.K PRABHU,Karnataka Rashtra Samithi
+4244,Karnataka,Shimoga(14),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SHIVA-2024-5126.jpg,lost,599,( -778122),SHIVARUDRAIAH SWAMY,Independent
+4245,Karnataka,Shimoga(14),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/IMTIY-2024-20240420035939.jpg,lost,442,( -778279),IMTIYAZ A. ATTAR,Independent
+4246,Karnataka,Shimoga(14),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MOHAM-2024-5022.jpg,lost,404,( -778317),MOHAMMED YUSUF KHAN,Young Star Empowerment Party
+4247,Karnataka,Shimoga(14),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/GJAY-2024-20240420035457.jpg,lost,368,( -778353),G. JAYADEVA,Independent
+4248,Karnataka,Shimoga(14),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/CHAND-2024-5102.jpg,lost,357,( -778364),CHANDRASHEKAR. H C,Independent
+4249,Karnataka,Shimoga(14),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/PSHIR-2024-4443.jpg,lost,344,( -778377),P. SRIPATHI. BHAT,Independent
+4250,Karnataka,Shimoga(14),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SANDE-2024-5859.jpg,lost,293,( -778428),SANDESH SHETTY. A,Independent
+4251,Karnataka,Shimoga(14),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/HSURE-2024-5241.jpg,lost,220,( -778501),H SURESH POOJARI,Independent
+4252,Karnataka,Shimoga(14),https://results.eci.gov.in/PcResultGenJune2024/img/nota.jpg,,4332,( -774389),NOTA,None of the Above
+4253,Karnataka,Uttara Kannada(12),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/HEGDE-2024-4428.jpg,won,782495,(+ 337428),VISHWESHWAR HEGDE KAGERI,Bharatiya Janata Party
+4254,Karnataka,Uttara Kannada(12),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/ANJAL-2024-4724.jpg,lost,445067,( -337428),DR. ANJALI NIMBALKAR,Indian National Congress
+4255,Karnataka,Uttara Kannada(12),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RAJSH-2024-5032.jpg,lost,5397,( -777098),RAJSHEKHAR. SHANKAR. HINDALAGI.,Independent
+4256,Karnataka,Uttara Kannada(12),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/GANAP-2024-20240412055350.jpg,lost,4472,( -778023),GANAPATI HEGDE,Socialist Unity Centre Of India (COMMUNIST)
+4257,Karnataka,Uttara Kannada(12),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/NIRAN-2024-4495.jpg,lost,4169,( -778326),NIRANJAN UDAYSINH SIRDESAI,Independent
+4258,Karnataka,Uttara Kannada(12),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/NAGAR-2024-4729.jpg,lost,2882,( -779613),NAGARAJ. ANANT. SHIRALI.,Independent
+4259,Karnataka,Uttara Kannada(12),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/CHIDA-2024-4486.jpg,lost,1721,( -780774),CHIDANAND  HANUMANTHAPPA HARIJAN,Independent
+4260,Karnataka,Uttara Kannada(12),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SUNIL-2024-4776.jpg,lost,1566,( -780929),PRAJAAKEEYA SUNIL,Uttama Prajaakeeya Party
+4261,Karnataka,Uttara Kannada(12),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/VINAY-2024-20240412061941.jpg,lost,1263,( -781232),VINAYAK NAIK,Karnataka Rashtra Samithi
+4262,Karnataka,Uttara Kannada(12),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KRISH-2024-4479.jpg,lost,956,( -781539),K. P. PATIL,Independent
+4263,Karnataka,Uttara Kannada(12),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KRISH-2024-4432.jpg,lost,920,( -781575),KRISHNA BALEGAR,Independent
+4264,Karnataka,Uttara Kannada(12),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/ARAVI-2024-5348.jpg,lost,904,( -781591),ARAVIND GOWDA,Independent
+4265,Karnataka,Uttara Kannada(12),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/AVINA-2024-6089.jpg,lost,773,( -781722),AVINASH. NARAYAN. PATIL.,Independent
+4266,Karnataka,Uttara Kannada(12),https://results.eci.gov.in/PcResultGenJune2024/img/nota.jpg,,10176,( -772319),NOTA,None of the Above
+4267,Karnataka,Dharwad(11),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/PRALH-2024-4580.jpg,won,716231,(+ 97324),PRALHAD JOSHI,Bharatiya Janata Party
+4268,Karnataka,Dharwad(11),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/VINOD-2024-4638.jpg,lost,618907,( -97324),VINOD ASOOTI,Indian National Congress
+4269,Karnataka,Dharwad(11),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SHAKE-2024-5029.jpg,lost,5872,( -710359),SHAKEELAHMAD.D.MULLA,Independent
+4270,Karnataka,Dharwad(11),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SHIVA-2024-5026.jpg,lost,5161,( -711070),S. S. PATIL,Independent
+4271,Karnataka,Dharwad(11),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RAJUA-2024-4784.jpg,lost,3601,( -712630),RAJU ANANTSA NAIKWADI,Independent
+4272,Karnataka,Dharwad(11),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/JAVED-2024-5197.jpg,lost,3558,( -712673),JAVEED AHAMED BELGAUMKAR.,Naki Bharatiya Ekta Party
+4273,Karnataka,Dharwad(11),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SHARA-2024-4703.jpg,lost,1167,( -715064),SHARANABASAV GONAVAR,Socialist Unity Centre Of India (COMMUNIST)
+4274,Karnataka,Dharwad(11),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MALLI-2024-5129.jpg,lost,987,( -715244),BALANAGOUDRA MALLIKARJUNAGOUDA,Independent
+4275,Karnataka,Dharwad(11),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/TAKAP-2024-20240422015718.jpg,lost,905,( -715326),TAKAPPA YALLAPPA KALAL,Prahar Janshakti Party
+4276,Karnataka,Dharwad(11),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/BASAV-2024-4591.jpg,lost,800,( -715431),BUGADI BASAVALINGAPPA IRAPPA,Uttama Prajaakeeya Party
+4277,Karnataka,Dharwad(11),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/NAGAP-2024-20240422014733.jpg,lost,555,( -715676),NAGARAJ. KARENNAVAR.,Karnataka Rashtra Samithi
+4278,Karnataka,Dharwad(11),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/PRAVE-2024-20240422020236.jpg,lost,548,( -715683),PRAVEEN H. H.,Independent
+4279,Karnataka,Dharwad(11),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/DRGUR-2024-5000.jpg,lost,514,( -715717),DR. GURAPPA H IMRAPUR,Independent
+4280,Karnataka,Dharwad(11),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SHOUK-2024-20240422020320.jpg,lost,473,( -715758),BANKAPUR SHOUKATALI,Tipu Sultan Party
+4281,Karnataka,Dharwad(11),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/VINOD-2024-5015.jpg,lost,411,( -715820),VINOD DASHARATH GHODKE,"Proutist Bloc, India"
+4282,Karnataka,Dharwad(11),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/VENKA-2024-5910.jpg,lost,337,( -715894),VENKATESH PRASAD. H,Indian Labour Party (Ambedkar Phule)
+4283,Karnataka,Dharwad(11),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MOHAM-2024-20240422015909.jpg,lost,317,( -715914),MOHAMMED ISMAIL MUKTI,Bharatiya Prajagala Kalyana Paksha
+4284,Karnataka,Dharwad(11),https://results.eci.gov.in/PcResultGenJune2024/img/nota.jpg,,6147,( -710084),NOTA,None of the Above
+4285,Karnataka,Haveri(10),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/BASAV-2024-20240420062254.jpg,won,705538,(+ 43513),BASAVARAJ BOMMAI,Bharatiya Janata Party
+4286,Karnataka,Haveri(10),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/GGANA-2024-20240420062240.jpg,lost,662025,( -43513),ANANDSWAMY GADDADEVARMATH,Indian National Congress
+4287,Karnataka,Haveri(10),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SUNAN-2024-20240422035536.jpg,lost,4707,( -700831),SUNANDA KARIYAPPA SHIRHATTI,Independent
+4288,Karnataka,Haveri(10),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KHAJA-2024-20240420062341.jpg,lost,3401,( -702137),KHAJAMOHIDDIN GUDAGERI,Socialist Party (India)
+4289,Karnataka,Haveri(10),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/GANGA-2024-20240420062357.jpg,lost,2270,( -703268),GANGADHAR BADIGER,Socialist Unity Centre Of India (COMMUNIST)
+4290,Karnataka,Haveri(10),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RUDRA-2024-20240422035634.jpg,lost,1356,( -704182),RUDRAPPA BASAPPA KUMBAR,Independent
+4291,Karnataka,Haveri(10),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SACHI-2024-20240420062532.jpg,lost,1072,( -704466),PRAJAKEEYA SACHINKUMAR KARJEKANNAVAR,Uttama Prajaakeeya Party
+4292,Karnataka,Haveri(10),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/BASAV-2024-20240422035604.jpg,lost,1071,( -704467),BASAVARAJ B HADI,Independent
+4293,Karnataka,Haveri(10),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/DRGU-2024-20240420062547.jpg,lost,953,( -704585),DR. G H IMRAPUR,Independent
+4294,Karnataka,Haveri(10),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/JAGAD-2024-20240420062609.jpg,lost,674,( -704864),JAGADISH YALLAPPA BANKAPURA,Independent
+4295,Karnataka,Haveri(10),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/TANUC-2024-20240420063022.jpg,lost,636,( -704902),TANU CHIKKANNA YADAV,Karnataka Rashtra Samithi
+4296,Karnataka,Haveri(10),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/HKNAR-2024-20240422035506.jpg,lost,446,( -705092),H K NARASIMHAPPA,Samajwadi Janata Party(Karnataka)
+4297,Karnataka,Haveri(10),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/VISHW-2024-20240420062519.jpg,lost,401,( -705137),VISHWANATH SHEERI,Ekam Sanatan Bharat Dal
+4298,Karnataka,Haveri(10),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SMTR-2024-20240420062502.jpg,lost,397,( -705141),RASHEEDA BEGUM,Indian Movement Party
+4299,Karnataka,Haveri(10),https://results.eci.gov.in/PcResultGenJune2024/img/nota.jpg,,10865,( -694673),NOTA,None of the Above
+4300,Karnataka,Bijapur(4),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RAMES-2024-4691.jpg,won,672781,(+ 77229),RAMESH JIGAJINAGI,Bharatiya Janata Party
+4301,Karnataka,Bijapur(4),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/HANAM-2024-4415.jpg,lost,595552,( -77229),RAJU ALAGUR.,Indian National Congress
+4302,Karnataka,Bijapur(4),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/GANAP-2024-4422.jpg,lost,7691,( -665090),GANAPATI  RATHOD (HANJAGI),Karnataka Rashtra Samithi
+4303,Karnataka,Bijapur(4),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/1713275885TarabaiBhovi.jpg,lost,4353,( -668428),BHOVI TARABAI,Independent
+4304,Karnataka,Bijapur(4),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RAMJI-2024-6403.jpg,lost,2426,( -670355),RAMJI YAMANAPPA BUDDHAPRIYA,Naki Bharatiya Ekta Party
+4305,Karnataka,Bijapur(4),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/NAGAJ-2024-4412.jpg,lost,2392,( -670389),NAGAJYOTI.B.N.,Socialist Unity Centre Of India (COMMUNIST)
+4306,Karnataka,Bijapur(4),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RAJAK-2024-5401.jpg,lost,1794,( -670987),RAJAKUMAR APPANNA HONNAKATTI,Rashtriya Samaj Paksha
+4307,Karnataka,Bijapur(4),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/JITEN-2024-5086.jpg,lost,1623,( -671158),JITENDRA.ASHOK. KAMBLE,Republican Party of India (A)
+4308,Karnataka,Bijapur(4),https://results.eci.gov.in/PcResultGenJune2024/img/nota.jpg,,7502,( -665279),NOTA,None of the Above
+4309,Karnataka,Bagalkot(3),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/GADDI-2024-20240423060901.jpg,won,671039,(+ 68399),GADDIGOUDAR. PARVATAGOUDA. CHANDANAGOUDA.,Bharatiya Janata Party
+4310,Karnataka,Bagalkot(3),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SAMYU-2024-20240423060706.jpg,lost,602640,( -68399),SAMYUKTA SHIVANAND PATIL,Indian National Congress
+4311,Karnataka,Bagalkot(3),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/NAGAR-2024-20240423060921.jpg,lost,5629,( -665410),NAGARAJ. S. KALKUTAGAR,Independent
+4312,Karnataka,Bagalkot(3),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/PARAS-2024-20240423060827.jpg,lost,5090,( -665949),PARASHURAM. LAXMAN. NEELANAIK,Independent
+4313,Karnataka,Bagalkot(3),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/ANTHO-2024-20240423060720.jpg,lost,4923,( -666116),ANTHOSH SAVVASE,Uttama Prajaakeeya Party
+4314,Karnataka,Bagalkot(3),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/JYOTI-2024-20240423061144.jpg,lost,4645,( -666394),JYOTI GULEDGUDDA,Independent
+4315,Karnataka,Bagalkot(3),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MBS-2024-20240423061113.jpg,lost,4479,( -666560),M. B. SIDAGONI,Bahujan Samaj Party
+4316,Karnataka,Bagalkot(3),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/DRMU-2024-20240423061010.jpg,lost,3135,( -667904),DR. MUTTU. S. SURAKOD. (MADAR),Independent
+4317,Karnataka,Bagalkot(3),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/PRASH-2024-20240423061339.jpg,lost,1914,( -669125),PRASHANT RAO,Independent
+4318,Karnataka,Bagalkot(3),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/DATTA-2024-20240423060843.jpg,lost,1620,( -669419),DATTATREYA DASHARATHA TAVARE,Independent
+4319,Karnataka,Bagalkot(3),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KENGA-2024-20240423060754.jpg,lost,1207,( -669832),KENGANAL. MALLIKARJUN. BHIMAPPA,Independent
+4320,Karnataka,Bagalkot(3),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/AMBRO-2024-20240423060634.jpg,lost,1205,( -669834),AMBROSE D' MELLO,Independent
+4321,Karnataka,Bagalkot(3),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MALLI-2024-20240423060734.jpg,lost,1144,( -669895),MALLIKARJUN H. T.,Socialist Unity Centre Of India (COMMUNIST)
+4322,Karnataka,Bagalkot(3),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RAJES-2024-20240423060608.jpg,lost,992,( -670047),RAJESAB BURANSAB. MASALI,Independent
+4323,Karnataka,Bagalkot(3),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SHARA-2024-20240423052624.jpg,lost,832,( -670207),SHARANAPPA MALLAPPA KOTLANNAVAR,Independent
+4324,Karnataka,Bagalkot(3),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RAVIS-2024-20240423060653.jpg,lost,656,( -670383),RAVI SHIVAPPA PADASALAGI,Independent
+4325,Karnataka,Bagalkot(3),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SAIYY-2024-20240423061207.jpg,lost,550,( -670489),SAIYYAD IMAMSAB JAKALI,Tipu Sultan Party
+4326,Karnataka,Bagalkot(3),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/ABDUL-2024-20240423061301.jpg,lost,529,( -670510),ABDULAZIZ KALADAGI PENDARI,Independent
+4327,Karnataka,Bagalkot(3),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MUTTA-2024-20240423061322.jpg,lost,518,( -670521),MUTTAPPA MUDAKAPPA HIREKUMBI,Raita Bharat Party
+4328,Karnataka,Bagalkot(3),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SAGAR-2024-20240423060809.jpg,lost,499,( -670540),SAGAR. BASAPPA. KUMBAR,Karnataka Rashtra Samithi
+4329,Karnataka,Bagalkot(3),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SMM-2024-20240423061238.jpg,lost,454,( -670585),S. M. MARIGOUDAR,Desh Prem Party
+4330,Karnataka,Bagalkot(3),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SHANK-2024-20240423060946.jpg,lost,441,( -670598),SHANKAR. VENKAPPA. NAIKAR.,Republican Party of India (A)
+4331,Karnataka,Bagalkot(3),https://results.eci.gov.in/PcResultGenJune2024/img/nota.jpg,,3420,( -667619),NOTA,None of the Above
+4332,Karnataka,Belgaum(2),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/JAGAD-2024-4439.jpg,won,762029,(+ 178437),JAGADISH SHETTAR,Bharatiya Janata Party
+4333,Karnataka,Belgaum(2),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MRINA-2024-4457.jpg,lost,583592,( -178437),MRINAL R HEBBALKAR,Indian National Congress
+4334,Karnataka,Belgaum(2),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MAHAD-2024-5173.jpg,lost,9503,( -752526),MAHADEV PATIL,Independent
+4335,Karnataka,Belgaum(2),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/BASAP-2024-4447.jpg,lost,5441,( -756588),BASAPPA GURUSIDDAPPA KUMBAR,Karnataka Rashtra Samithi
+4336,Karnataka,Belgaum(2),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/ASHOK-2024-4694.jpg,lost,4407,( -757622),ASHOK APPAYA APPUGOL,Bahujan Samaj Party
+4337,Karnataka,Belgaum(2),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RAVIS-2024-4514.jpg,lost,3926,( -758103),RAVI SHIVAPPA PADASALAGI,Independent
+4338,Karnataka,Belgaum(2),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/VIJAY-2024-5926.jpg,lost,2808,( -759221),VIJAY S METHRANI,Independent
+4339,Karnataka,Belgaum(2),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/PRAJA-2024-20240424084418.jpg,lost,1433,( -760596),PRAJAAKEEYA MALLAPPA CHOGALA (PREM),Uttama Prajaakeeya Party
+4340,Karnataka,Belgaum(2),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/NITIN-2024-5311.jpg,lost,1310,( -760719),NITIN ASHOK MHADAGUT,Independent
+4341,Karnataka,Belgaum(2),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/LAXMA-2024-5002.jpg,lost,1302,( -760727),LAXMAN JADAGANNAVAR,Socialist Unity Centre Of India (COMMUNIST)
+4342,Karnataka,Belgaum(2),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/PUNDA-2024-4995.jpg,lost,1099,( -760930),PUNDALIK ITNAL,Independent
+4343,Karnataka,Belgaum(2),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/ASHOK-2024-4999.jpg,lost,679,( -761350),ASHOK P HANAJI,Independent
+4344,Karnataka,Belgaum(2),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/ASHPA-2024-5320.jpg,lost,634,( -761395),ASHPAKAHMAD USTAD,Independent
+4345,Karnataka,Belgaum(2),https://results.eci.gov.in/PcResultGenJune2024/img/nota.jpg,,5726,( -756303),NOTA,None of the Above
+4346,Karnataka,Hassan(16),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SHREY-2024-20240404025237.jpg,won,672988,(+ 42649),SHREYAS. M. PATEL,Indian National Congress
+4347,Karnataka,Hassan(16),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/PRAJW-2024-20240404120053.jpg,lost,630339,( -42649),PRAJWAL REVANNA,Janata Dal  (Secular)
+4348,Karnataka,Hassan(16),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/GANGA-2024-2814.jpg,lost,12173,( -660815),GANGADHAR BAHUJAN,Bahujan Samaj Party
+4349,Karnataka,Hassan(16),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/DEVAR-2024-20240402115428.jpg,lost,6057,( -666931),DEVARAJ M.Y,Karnataka Rashtra Samithi
+4350,Karnataka,Hassan(16),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/HDREV-2024-2612.jpg,lost,4272,( -668716),H D REVANNA,Purvanchal Mahapanchayat
+4351,Karnataka,Hassan(16),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/BASAV-2024-2788.jpg,lost,4063,( -668925),BASAVARAJU J.D (EX-ARMY),Independent
+4352,Karnataka,Hassan(16),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SANTH-2024-3002.jpg,lost,3449,( -669539),SANTHOSH B.N,Independent
+4353,Karnataka,Hassan(16),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/HEMAN-2024-3538.jpg,lost,3281,( -669707),HEMANTH GAVEESH,Independent
+4354,Karnataka,Hassan(16),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/PRATH-2024-3035.jpg,lost,3250,( -669738),PRATHAPA K.A,Uttama Prajaakeeya Party
+4355,Karnataka,Hassan(16),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SKNIN-2024-3591.jpg,lost,1730,( -671258),S.K. NINGARAJA,Bahujan Bharat Party
+4356,Karnataka,Hassan(16),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/BNSUR-2024-3493.jpg,lost,1418,( -671570),B.N. SURESHA (SURESHGOWDA),Independent
+4357,Karnataka,Hassan(16),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SIDDA-2024-3680.jpg,lost,987,( -672001),SIDDABHOVI,Independent
+4358,Karnataka,Hassan(16),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RGSAT-2024-20240328050044.jpg,lost,869,( -672119),R.G. SATHISHA RAMEDEVARAPURA,Independent
+4359,Karnataka,Hassan(16),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SHIVA-2024-3821.jpg,lost,848,( -672140),SHIVARAJ. B,Republican Party of India Bharatha
+4360,Karnataka,Hassan(16),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KRGAN-2024-3068.jpg,lost,742,( -672246),K.R. GANGADHARAPPA,Independent
+4361,Karnataka,Hassan(16),https://results.eci.gov.in/PcResultGenJune2024/img/nota.jpg,,8541,( -664447),NOTA,None of the Above
+4362,Karnataka,Davanagere(13),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/DRPR-2024-20240412022432.jpg,won,633059,(+ 26094),DR. PRABHA MALLIKARJUN,Indian National Congress
+4363,Karnataka,Davanagere(13),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/GSG-2024-20240415020558.jpg,lost,606965,( -26094),GAYITHRI SIDDESHWARA,Bharatiya Janata Party
+4364,Karnataka,Davanagere(13),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/VINAY-2024-20240412032217.jpg,lost,42907,( -590152),G.B.VINAY KUMAR,Independent
+4365,Karnataka,Davanagere(13),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/TJAB-2024-4464.jpg,lost,5128,( -627931),T.JABEENA AAPA,Independent
+4366,Karnataka,Davanagere(13),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/HANUM-2024-4491.jpg,lost,4475,( -628584),D. HANUMANTHAPPA,Bahujan Samaj Party
+4367,Karnataka,Davanagere(13),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/TASLI-2024-5069.jpg,lost,4141,( -628918),TASLIM BANU,Independent
+4368,Karnataka,Davanagere(13),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MTC-2024-5001.jpg,lost,3043,( -630016),T.CHANDRU,Independent
+4369,Karnataka,Davanagere(13),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/GMG-2024-6333.jpg,lost,2464,( -630595),G.M.GAYITRI SIDDESHI,Independent
+4370,Karnataka,Davanagere(13),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/PARAV-2024-5100.jpg,lost,1869,( -631190),PARAVEEJ.H,Independent
+4371,Karnataka,Davanagere(13),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/ESHWA-2024-20240412025619.jpg,lost,1430,( -631629),ESHWARA SHENGA,Uttama Prajaakeeya Party
+4372,Karnataka,Davanagere(13),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/AKG-2024-4657.jpg,lost,1055,( -632004),A.K.GANESH,Independent
+4373,Karnataka,Davanagere(13),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SRINI-2024-6274.jpg,lost,973,( -632086),M.C.SREENIVAS,Bharatiya Prajagala Kalyana Paksha
+4374,Karnataka,Davanagere(13),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/THIPP-2024-20240412014940.jpg,lost,849,( -632210),ANABERU THIPPESWAMY,Socialist Unity Centre Of India (COMMUNIST)
+4375,Karnataka,Davanagere(13),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SYEDJ-2024-5003.jpg,lost,844,( -632215),SYED ZABIULLA.K,Independent
+4376,Karnataka,Davanagere(13),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SALEE-2024-5174.jpg,lost,799,( -632260),SALEEM S,Independent
+4377,Karnataka,Davanagere(13),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MOHAM-2024-4990.jpg,lost,722,( -632337),MOHAMED HAYATH.M,Independent
+4378,Karnataka,Davanagere(13),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/ABDUL-2024-5256.jpg,lost,652,( -632407),ABDUL NAZEER AHAMMED,Independent
+4379,Karnataka,Davanagere(13),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RASHE-2024-5148.jpg,lost,600,( -632459),RASHEED KHAN,Independent
+4380,Karnataka,Davanagere(13),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MGS-2024-5013.jpg,lost,561,( -632498),M.G.SRIKANTH,Navabharath Sena
+4381,Karnataka,Davanagere(13),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/ATD-2024-4987.jpg,lost,539,( -632520),M.P. KHALANDAR,Country Citizen Party
+4382,Karnataka,Davanagere(13),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/PEDDA-2024-5738.jpg,lost,508,( -632551),PEDDAPPA S,Independent
+4383,Karnataka,Davanagere(13),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KSVE-2024-6377.jpg,lost,475,( -632584),K.S. VEERBHADRAPPA,Karnataka Rashtra Samithi
+4384,Karnataka,Davanagere(13),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/GMB-2024-6165.jpg,lost,471,( -632588),G.M.BARKATH ALI BASHA,Independent
+4385,Karnataka,Davanagere(13),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/VEERE-2024-4682.jpg,lost,458,( -632601),VEERESH.S (LION VEERESH),Rani Chennamma Party
+4386,Karnataka,Davanagere(13),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/DODDE-2024-5690.jpg,lost,440,( -632619),DODDESH.H.S,Janahitha Paksha
+4387,Karnataka,Davanagere(13),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/BARKA-2024-4709.jpg,lost,411,( -632648),BARKATH ALI,Independent
+4388,Karnataka,Davanagere(13),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MANJU-2024-5209.jpg,lost,378,( -632681),MANJU. MARIKOPPA,Independent
+4389,Karnataka,Davanagere(13),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RUDRE-2024-20240415034707.jpg,lost,348,( -632711),RUDRESHA.K.H,Samaj Vikas Kranti Party
+4390,Karnataka,Davanagere(13),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RAVIN-2024-5061.jpg,lost,320,( -632739),RAVINAIK. B,Independent
+4391,Karnataka,Davanagere(13),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MAHAB-2024-6092.jpg,lost,308,( -632751),MAHABUB BASHA,Independent
+4392,Karnataka,Davanagere(13),https://results.eci.gov.in/PcResultGenJune2024/img/nota.jpg,,3176,( -629883),NOTA,None of the Above
+4393,Karnataka,Bellary(9),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/ETUKA-2024-4411.jpg,won,730845,(+ 98992),E. TUKARAM,Indian National Congress
+4394,Karnataka,Bellary(9),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/BSREE-2024-20240418123945.jpg,lost,631853,( -98992),B. SREERAMULU,Bharatiya Janata Party
+4395,Karnataka,Bellary(9),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/VALMI-2024-4998.jpg,lost,5911,( -724934),VALMIKI KRISHNAPPA,Bahujan Samaj Party
+4396,Karnataka,Bellary(9),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/CCHA-2024-20240423121622.jpg,lost,3797,( -727048),C. CHANNAVEERA,Karnataka Rashtra Samithi
+4397,Karnataka,Bellary(9),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/YPAM-2024-5005.jpg,lost,2460,( -728385),CONDUCTOR PAMPAPATHI,Independent
+4398,Karnataka,Bellary(9),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/VEERE-2024-20240420072221.jpg,lost,1870,( -728975),VEERESH,Independent
+4399,Karnataka,Bellary(9),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/ADEV-2024-4374.jpg,lost,1741,( -729104),A. DEVADAS,Socialist Unity Centre Of India (COMMUNIST)
+4400,Karnataka,Bellary(9),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MANJA-2024-4996.jpg,lost,1322,( -729523),MANJUNATHA GOSAL,Prahar Janshakti Party
+4401,Karnataka,Bellary(9),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/ARUN-2024-20240423115235.jpg,lost,1282,( -729563),ARUN.S.HIREHAL,Independent
+4402,Karnataka,Bellary(9),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/GSWAM-2024-5963.jpg,lost,944,( -729901),G. SWAMY,Navabharath Sena
+4403,Karnataka,Bellary(9),https://results.eci.gov.in/PcResultGenJune2024/img/nota.jpg,,7889,( -722956),NOTA,None of the Above
+4404,Karnataka,Koppal(8),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RAJAS-2024-4393.jpg,won,663511,(+ 46357),K. RAJASHEKAR BASAVARAJ HITNAL,Indian National Congress
+4405,Karnataka,Koppal(8),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/BASAV-2024-4371.jpg,lost,617154,( -46357),DR . BASAVARAJ. K. SHARANAPPA,Bharatiya Janata Party
+4406,Karnataka,Koppal(8),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MALLI-2024-20240416013340.jpg,lost,7314,( -656197),MALLIKARJUN HADAPAD,Independent
+4407,Karnataka,Koppal(8),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SHANK-2024-5169.jpg,lost,7043,( -656468),SHANKARA,Bahujan Samaj Party
+4408,Karnataka,Koppal(8),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/BASAP-2024-5064.jpg,lost,5877,( -657634),KARADI BASAVARAJ,Independent
+4409,Karnataka,Koppal(8),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RUKMI-2024-20240419043558.jpg,lost,5282,( -658229),RUKMINI,Independent
+4410,Karnataka,Koppal(8),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SURES-2024-20240423040412.jpg,lost,4642,( -658869),SURESH. GOUDA MUNDINAMANE,Independent
+4411,Karnataka,Koppal(8),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/NAGAR-2024-20240419042334.jpg,lost,1994,( -661517),NAGARAJ KALAL,Independent
+4412,Karnataka,Koppal(8),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KALAP-2024-5186.jpg,lost,1982,( -661529),KALAPPA YACHRAPPA BADIGER VISHWAKARMA,Independent
+4413,Karnataka,Koppal(8),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/PAYA-2024-20240423040336.jpg,lost,1895,( -661616),PA.YA. GANESH,Independent
+4414,Karnataka,Koppal(8),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/HANAM-2024-4660.jpg,lost,1248,( -662263),HANAMESH . S . H. SHAKHAPUR,Independent
+4415,Karnataka,Koppal(8),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KARIM-2024-20240419030020.jpg,lost,1238,( -662273),KAREEMPASHA GACHCHINMANI.,Independent
+4416,Karnataka,Koppal(8),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/GANOJ-2024-5118.jpg,lost,1117,( -662394),ANNOJI RAO. G,Sarva Janata Party
+4417,Karnataka,Koppal(8),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SHARA-2024-4373.jpg,lost,1106,( -662405),SHARANAPPA,Socialist Unity Centre Of India (COMMUNIST)
+4418,Karnataka,Koppal(8),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/NIRUP-2024-4511.jpg,lost,900,( -662611),NIRUPADI K GOMARSI,Karnataka Rashtra Samithi
+4419,Karnataka,Koppal(8),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RAMZA-2024-5800.jpg,lost,806,( -662705),RAMZANBEE,All India Ulama Congress
+4420,Karnataka,Koppal(8),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/DDURG-2024-20240423040258.jpg,lost,799,( -662712),D DURGA PRASAD BYATARAYANAJI,Challengers Party
+4421,Karnataka,Koppal(8),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SHARA-2024-5881.jpg,lost,776,( -662735),C. SHARANA BASAPPA,Republican Party of India (Karnataka)
+4422,Karnataka,Koppal(8),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/IMAMS-2024-4702.jpg,lost,733,( -662778),IMAMSAB JANGLISAB MULLA,Independent
+4423,Karnataka,Koppal(8),https://results.eci.gov.in/PcResultGenJune2024/img/nota.jpg,,3519,( -659992),NOTA,None of the Above
+4424,Karnataka,Bidar(7),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SAGAR-2024-20240420045508.jpg,won,666317,(+ 128875),SAGAR ESHWAR KHANDRE,Indian National Congress
+4425,Karnataka,Bidar(7),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/BHAGW-2024-20240423020605.jpg,lost,537442,( -128875),BHAGWANTH KHUBA,Bharatiya Janata Party
+4426,Karnataka,Bidar(7),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/AMBAD-2024-20240423021122.jpg,lost,5302,( -661015),AMBADAS SOPANRAO HULSURE,Bahujan Bharat Party
+4427,Karnataka,Bidar(7),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/PUTAR-2024-20240422065843.jpg,lost,4554,( -661763),PUTARAJ,Bahujan Samaj Party
+4428,Karnataka,Bidar(7),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/DRDI-2024-20240422073227.jpg,lost,4116,( -662201),DR. DINKAR MORE,Independent
+4429,Karnataka,Bidar(7),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/ROPH-2024-5358.jpg,lost,3104,( -663213),SRI ROPH ABDUL GANI,Independent
+4430,Karnataka,Bidar(7),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SHIVR-2024-20240422074432.jpg,lost,3079,( -663238),SHIVRAJ ADIVEPPA SATWAR,Independent
+4431,Karnataka,Bidar(7),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RAMVI-2024-20240422073752.jpg,lost,2694,( -663623),RAMVILAS RAMULALJI NAVANDAR,Independent
+4432,Karnataka,Bidar(7),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RIYAZ-2024-4510.jpg,lost,1711,( -664606),RIYAZ AHMED,Independent
+4433,Karnataka,Bidar(7),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MOHDS-2024-4752.jpg,lost,1694,( -664623),MOHD. SHAFEEQ UR RAHAMAN,All India Ulama Congress
+4434,Karnataka,Bidar(7),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/JAIRA-2024-4731.jpg,lost,1493,( -664824),JAIRAJ KASHAPPA BUKKA ADVOCATE,Independent
+4435,Karnataka,Bidar(7),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/BALBH-2024-5009.jpg,lost,1470,( -664847),BALBHEEM UNNE,Independent
+4436,Karnataka,Bidar(7),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/WASEE-2024-20240420050244.jpg,lost,1170,( -665147),WASEEMUDDIN,Independent
+4437,Karnataka,Bidar(7),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MAHES-2024-20240423021221.jpg,lost,981,( -665336),MAHESH GORNALKAR,Republican Party of India (A)
+4438,Karnataka,Bidar(7),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/DILIP-2024-20240422073342.jpg,lost,798,( -665519),DILIP KADWAD,Independent
+4439,Karnataka,Bidar(7),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/GOPAL-2024-20240422071904.jpg,lost,767,( -665550),GOPAL M.P. GARAMPALLI,Independent
+4440,Karnataka,Bidar(7),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RAMES-2024-20240422071609.jpg,lost,472,( -665845),RAMESH J CHAVAN,Karnataka Rashtra Samithi
+4441,Karnataka,Bidar(7),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RAMCH-2024-20240420045826.jpg,lost,472,( -665845),RAMCHANDRA NARAYAN KACHAVE,Kranti Kari Jai Hind Sena
+4442,Karnataka,Bidar(7),https://results.eci.gov.in/PcResultGenJune2024/img/nota.jpg,,4686,( -661631),NOTA,None of the Above
+4443,Karnataka,Raichur(6),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/GKUMA-2024-5023.jpg,won,670966,(+ 79781),G. KUMAR NAIK.,Indian National Congress
+4444,Karnataka,Raichur(6),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RAJAA-2024-20240415021352.jpg,lost,591185,( -79781),RAJA AMARESHWARA NAIK.,Bharatiya Janata Party
+4445,Karnataka,Raichur(6),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/NARAS-2024-20240422052731.jpg,lost,9289,( -661677),S. NARASANNA GOUDA NAYAKA,Bahujan Samaj Party
+4446,Karnataka,Raichur(6),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/BASAV-2024-4723.jpg,lost,5181,( -665785),BASAVA PRABHU. MEDA,Karnataka Rashtra Samithi
+4447,Karnataka,Raichur(6),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/AMARE-2024-20240422053254.jpg,lost,4465,( -666501),AMARESH,Independent
+4448,Karnataka,Raichur(6),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/YALLA-2024-20240422052705.jpg,lost,3634,( -667332),YALLAMMA DALAPATHI,Independent
+4449,Karnataka,Raichur(6),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SHAMR-2024-20240412035506.jpg,lost,2640,( -668326),MEDHAR SHAMRAO,Bhartiya Jan Samrat Party
+4450,Karnataka,Raichur(6),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RAMAL-2024-20240422052606.jpg,lost,2409,( -668557),RAMALINGAPPA,Socialist Unity Centre Of India (COMMUNIST)
+4451,Karnataka,Raichur(6),https://results.eci.gov.in/PcResultGenJune2024/img/nota.jpg,,9850,( -661116),NOTA,None of the Above
+4452,Karnataka,Gulbarga(5),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RADHA-2024-4366.jpg,won,652321,(+ 27205),RADHAKRISHNA,Indian National Congress
+4453,Karnataka,Gulbarga(5),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/UMESH-2024-4376.jpg,lost,625116,( -27205),DR. UMESH G JADHAV,Bharatiya Janata Party
+4454,Karnataka,Gulbarga(5),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/HUCCH-2024-5234.jpg,lost,7888,( -644433),HUCHESHWARA WATHAR GOUR,Bahujan Samaj Party
+4455,Karnataka,Gulbarga(5),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SUNDE-2024-5924.jpg,lost,3677,( -648644),SUNDAR,Independent
+4456,Karnataka,Gulbarga(5),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/JYOTI-2024-5877.jpg,lost,2805,( -649516),JYOTI RAMESH CHAVAN,Independent
+4457,Karnataka,Gulbarga(5),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SHARA-2024-5723.jpg,lost,1884,( -650437),SHARANAPPA (PINTU),Independent
+4458,Karnataka,Gulbarga(5),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/1712971574TarabaiBhovi.jpg,lost,1550,( -650771),TARABAI BHOVI,Independent
+4459,Karnataka,Gulbarga(5),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RAMES-2024-4485.jpg,lost,1334,( -650987),RAMESH BHIMSING CHAVAN,Independent
+4460,Karnataka,Gulbarga(5),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/ANAND-2024-5159.jpg,lost,1280,( -651041),ANAND SINNUR,Independent
+4461,Karnataka,Gulbarga(5),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/NAGEN-2024-5008.jpg,lost,1226,( -651095),NAGENDRA RAO,Uttama Prajaakeeya Party
+4462,Karnataka,Gulbarga(5),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SHARA-2024-4453.jpg,lost,1144,( -651177),S.M.SHARMA,Socialist Unity Centre Of India (COMMUNIST)
+4463,Karnataka,Gulbarga(5),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/RAJKU-2024-5016.jpg,lost,709,( -651612),RAJKUMAR,BhartiyaBahujanKranti Dal
+4464,Karnataka,Gulbarga(5),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/VIJAY-2024-5012.jpg,lost,560,( -651761),VIJAY JADHAV,Karnataka Rashtra Samithi
+4465,Karnataka,Gulbarga(5),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/VIJAY-2024-4474.jpg,lost,554,( -651767),B. VIJAYKUMAR CHINCHANSOORKAR,Prahar Janshakti Party
+4466,Karnataka,Gulbarga(5),https://results.eci.gov.in/PcResultGenJune2024/img/nota.jpg,,8429,( -643892),NOTA,None of the Above
+4467,Karnataka,Chikkodi(1),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/PRIYA-2024-5347.jpg,won,713461,(+ 90834),PRIYANKA SATISH JARKIHOLI,Indian National Congress
+4468,Karnataka,Chikkodi(1),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/ANNAS-2024-20240422071042.jpg,lost,622627,( -90834),ANNASAHEB SHANKAR JOLLE,Bharatiya Janata Party
+4469,Karnataka,Chikkodi(1),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SHAMB-2024-4401.jpg,lost,25466,( -687995),KALLOLIKAR SHAMBHU KRISHNA,Independent
+4470,Karnataka,Chikkodi(1),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SAMME-2024-4804.jpg,lost,5353,( -708108),SAMMED SARADAR VARDHAMANE,Independent
+4471,Karnataka,Chikkodi(1),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SHREN-2024-6271.jpg,lost,5181,( -708280),SHRENIK ANNASAHEB JANGATE,Independent
+4472,Karnataka,Chikkodi(1),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/APPAS-2024-20240422071008.jpg,lost,4654,( -708807),APPASAHEB SHRIPATI KURANE,Sarva Janata Party
+4473,Karnataka,Chikkodi(1),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/VILAS-2024-4492.jpg,lost,4150,( -709311),VILAS MANNUR,Independent
+4474,Karnataka,Chikkodi(1),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/SATTE-2024-6263.jpg,lost,1319,( -712142),SATTEPPA DASHARATH KALELI,Bharatheeya Jawan Kisan Party
+4475,Karnataka,Chikkodi(1),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/YASEE-2024-6294.jpg,lost,1281,( -712180),YASIN SHIRAJUDDIN PATAKI,Independent
+4476,Karnataka,Chikkodi(1),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KASHI-2024-5381.jpg,lost,1108,( -712353),KASHINATH KALLAPPA KURANI,Independent
+4477,Karnataka,Chikkodi(1),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MAHES-2024-5372.jpg,lost,1009,( -712452),MAHESH ASHOK KASAR,Independent
+4478,Karnataka,Chikkodi(1),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/MOHAN-2024-4396.jpg,lost,946,( -712515),MOHAN GURAPPA MOTANNAVAR,Independent
+4479,Karnataka,Chikkodi(1),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KUMAR-2024-4800.jpg,lost,941,( -712520),KUMAR SAMBHAJI DONGARE,Karnataka Rashtra Samithi
+4480,Karnataka,Chikkodi(1),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/PAVAN-2024-6233.jpg,lost,666,( -712795),PAVANKUMAR BABURAV MALAGE,Bahujan Bharat Party
+4481,Karnataka,Chikkodi(1),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/KADAY-2024-5028.jpg,lost,647,( -712814),DR|| KADAYYA HIREMATH (SWAMIJI),Independent
+4482,Karnataka,Chikkodi(1),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/BHIMA-2024-5031.jpg,lost,619,( -712842),BHIMASEN DATTU SANADI,Independent
+4483,Karnataka,Chikkodi(1),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/GAJAN-2024-5365.jpg,lost,600,( -712861),GAJANAN L. PUJARI,Independent
+4484,Karnataka,Chikkodi(1),https://results.eci.gov.in/uploads4/candprofile/2024/PC/E24/S10/JITEN-2024-5402.jpg,lost,457,( -713004),JITENDRA SUBHASH NERLE,Independent
+4485,Karnataka,Chikkodi(1),https://results.eci.gov.in/PcResultGenJune2024/img/nota.jpg,,2608,( -710853),NOTA,None of the Above
