@@ -47,7 +47,4 @@ The application provides several ways to explore the election results:
 
 
 
-For live usage and demo, visit [Indian election result dashboard](https://india-election.streamlit.app/).
-## License
-
 This project is licensed under the MIT License.
